@@ -7,16 +7,16 @@ function App() {
     en: {
       greeting: "🧑‍💼 About Me",
       intro: "Hi, I'm Efe!\nI'm currently living in Barcelona and finishing my Master of Science in Technology and Engineering Management. My thesis focuses on reducing churn in SaaS products by analyzing customer loyalty and user experience. This topic excites me because it blends strategy, technology, and human behavior — a mix I truly enjoy.",
-      background: "I studied Civil Engineering at Middle East Technical University in Ankara (2018–2023), and over time, I developed a strong interest in business, growth, and innovation, which led me to shift my path toward management and strategy.",
+      background: "I studied Civil Engineering at Middle East Technical University in Ankara (2018–2024), and over time, I developed a strong interest in business, growth, and innovation, which led me to shift my path toward management and strategy.",
       workTitle: "💼 Work Experience",
       work: [
-        "<strong>Beymen Group, Istanbul</strong> – Sales Development Intern (Jul 2023 – Sep 2023): Worked on performance reports, internal communication, and store operations support.",
-        "<strong>INCO International, Dubai</strong> – Procurement Intern (Jun 2022 – Aug 2022): Helped streamline supply chain processes, sourced materials, and collaborated with suppliers."
+        "<strong>Beymen Group, Istanbul / TR</strong> – Sales Development Intern (Aug 2023 – Sep 2023): Worked on performance reports, internal communication, and store operations support.",
+        "<strong>INCO International, Dubai / UAE</strong> – Procurement Intern (Aug 2022 – Sep 2022): Helped streamline supply chain processes, sourced materials, and collaborated with suppliers."
       ],
       eduTitle: "📚 Education",
       education: [
-        "Master of Science – Technology & Engineering Management, Universitat Rovira i Virgili, Tarragona, Spain (2023–2024)",
-        "Bachelor of Science – Civil Engineering, Middle East Technical University, Ankara, Turkey (2018–2023)"
+        "Master of Science – Technology & Engineering Management, Universitat Rovira i Virgili, Tarragona, Spain (2024–2025)",
+        "Bachelor of Science – Civil Engineering, Middle East Technical University, Ankara, Turkey (2018–2024)"
       ],
       skillsTitle: "🛠️ Skills & Tools",
       skills: [
@@ -43,16 +43,16 @@ function App() {
     tr: {
       greeting: "🧑‍💼 Hakkımda",
       intro: "Merhaba, ben Efe!\nŞu anda Barselona'da yaşıyorum ve Teknoloji ve Mühendislik Yönetimi alanında yüksek lisans eğitimimi tamamlıyorum. Tez konum, SaaS ürünlerinde müşteri sadakati ve kullanıcı deneyimini analiz ederek müşteri kaybını azaltmaya odaklanıyor. Strateji, teknoloji ve insan davranışlarını bir araya getirmesi beni heyecanlandırıyor.",
-      background: "2018–2023 yılları arasında Ankara’daki Orta Doğu Teknik Üniversitesi’nde İnşaat Mühendisliği okudum. Zamanla iş, büyüme ve yenilik alanlarına ilgim arttı ve bu doğrultuda yönetim ve stratejiye yöneldim.",
+      background: "2018–2024 yılları arasında Ankara’daki Orta Doğu Teknik Üniversitesi’nde İnşaat Mühendisliği okudum. Zamanla iş, büyüme ve yenilik alanlarına ilgim arttı ve bu doğrultuda yönetim ve stratejiye yöneldim.",
       workTitle: "💼 İş Deneyimi",
       work: [
-        "<strong>Beymen Group, İstanbul</strong> – Satış Geliştirme Stajyeri (Tem 2023 – Eyl 2023): Performans raporları hazırladım, iç iletişimde yer aldım ve mağaza operasyonlarını destekledim.",
-        "<strong>INCO International, Dubai</strong> – Satın Alma Stajyeri (Haz 2022 – Ağu 2022): Tedarik zinciri süreçlerini geliştirdim, malzeme tedariki yaptım ve tedarikçilerle iş birliği sağladım."
+        "<strong>Beymen Group, İstanbul / TR</strong> – Satış Geliştirme Stajyeri (Ağu 2023 – Eyl 2023): Performans raporları hazırladım, iç iletişimde yer aldım ve mağaza operasyonlarını destekledim.",
+        "<strong>INCO International, Dubai / BAE</strong> – Satın Alma Stajyeri (Ağu 2022 – Eyl 2022): Tedarik zinciri süreçlerini geliştirdim, malzeme tedariği yaptım ve tedarikçilerle iş birliği sağladım."
       ],
       eduTitle: "📚 Eğitim",
       education: [
-        "Master of Science – Teknoloji ve Mühendislik Yönetimi, Universitat Rovira i Virgili, Tarragona, İspanya (2023–2024)",
-        "Bachelor of Science – İnşaat Mühendisliği, Orta Doğu Teknik Üniversitesi, Ankara, Türkiye (2018–2023)"
+        "Master of Science – Teknoloji ve Mühendislik Yönetimi, Universitat Rovira i Virgili, Tarragona, İspanya (2024–2025)",
+        "Bachelor of Science – İnşaat Mühendisliği, Orta Doğu Teknik Üniversitesi, Ankara, Türkiye (2018–2024)"
       ],
       skillsTitle: "🛠️ Yetenekler ve Araçlar",
       skills: [
@@ -79,16 +79,16 @@ function App() {
         de: {
       greeting: "🧑‍💼 Über mich",
       intro: "Hallo, ich bin Efe!\nIch lebe derzeit in Barcelona und schließe meinen Master of Science in Technologie- und Ingenieurmanagement ab. Meine Masterarbeit beschäftigt sich mit der Reduzierung der Abwanderungsrate in SaaS-Produkten durch die Analyse von Kundentreue und Nutzererfahrung.",
-      background: "Ich habe zwischen 2018 und 2023 Bauingenieurwesen an der Middle East Technical University in Ankara studiert. Mit der Zeit entwickelte ich ein starkes Interesse an Geschäftswachstum und Innovation und entschied mich, mich auf Management und Strategie zu konzentrieren.",
+      background: "Ich habe zwischen 2018 und 2024 Bauingenieurwesen an der Middle East Technical University in Ankara studiert. Mit der Zeit entwickelte ich ein starkes Interesse an Geschäftswachstum und Innovation und entschied mich, mich auf Management und Strategie zu konzentrieren.",
       workTitle: "💼 Berufserfahrung",
       work: [
-        "<strong>Beymen Group, Istanbul</strong> – Praktikum im Bereich Vertriebsentwicklung (Jul 2023 – Sep 2023): Erstellung von Leistungsberichten, interne Kommunikation und Unterstützung von Filialabläufen.",
-        "<strong>INCO International, Dubai</strong> – Praktikum im Bereich Beschaffung (Jun 2022 – Aug 2022): Optimierung von Lieferkettenprozessen, Materialbeschaffung und Zusammenarbeit mit Lieferanten."
+        "<strong>Beymen Group, Istanbul/TR</strong> – Praktikum im Bereich Vertriebsentwicklung (Aug 2023 – Sep 2023): Erstellung von Leistungsberichten, interne Kommunikation und Unterstützung von Filialabläufen.",
+        "<strong>INCO International, Dubai/VAE</strong> – Praktikum im Bereich Beschaffung (Aug 2022 – Sep 2022): Optimierung von Lieferkettenprozessen, Materialbeschaffung und Zusammenarbeit mit Lieferanten."
       ],
       eduTitle: "📚 Ausbildung",
       education: [
-        "Master of Science – Technologie- und Ingenieurmanagement, Universitat Rovira i Virgili, Tarragona, Spanien (2023–2024)",
-        "Bachelor of Science – Bauingenieurwesen, Middle East Technical University, Ankara, Türkei (2018–2023)"
+        "Master of Science – Technologie und Ingenieurmanagement, Universitat Rovira i Virgili, Tarragona, Spanien (2024–2025)",
+        "Bachelor of Science – Bauingenieurwesen, Middle East Technical University, Ankara, Türkei (2018–2024)"
       ],
       skillsTitle: "🛠️ Fähigkeiten & Tools",
       skills: [
@@ -116,16 +116,16 @@ function App() {
     es: {
       greeting: "🧑‍💼 Sobre mí",
       intro: "¡Hola! Soy Efe.\nActualmente vivo en Barcelona y estoy terminando mi Máster en Gestión de Tecnología e Ingeniería. Mi tesis trata sobre cómo reducir la tasa de cancelación en productos SaaS analizando la fidelización del cliente y la experiencia del usuario.",
-      background: "Estudié Ingeniería Civil en la Middle East Technical University en Ankara entre 2018 y 2023. Con el tiempo, desarrollé un gran interés por los negocios, el crecimiento y la innovación, lo que me llevó a orientarme hacia la gestión y la estrategia.",
+      background: "Estudié Ingeniería Civil en la Middle East Technical University en Ankara entre 2018 y 2024. Con el tiempo, desarrollé un gran interés por los negocios, el crecimiento y la innovación, lo que me llevó a orientarme hacia la gestión y la estrategia.",
       workTitle: "💼 Experiencia Laboral",
       work: [
-        "<strong>Beymen Group, Estambul</strong> – Prácticas en Desarrollo Comercial (Jul 2023 – Sep 2023): Elaboración de informes de rendimiento, comunicación interna y apoyo operativo en tiendas.",
-        "<strong>INCO International, Dubái</strong> – Prácticas en Compras (Jun 2022 – Ago 2022): Mejora de procesos de la cadena de suministro, adquisición de materiales y colaboración con proveedores."
+        "<strong>Beymen Group, Estambul / TR</strong> – Prácticas en Desarrollo Comercial (Ago 2023 – Sep 2023): Elaboración de informes de rendimiento, comunicación interna y apoyo operativo en tiendas.",
+        "<strong>INCO International, Dubái / EAU</strong> – Prácticas en Compras (Ago 2022 – Sep 2022): Mejora de procesos de la cadena de suministro, adquisición de materiales y colaboración con proveedores."
       ],
       eduTitle: "📚 Educación",
       education: [
-        "Máster en Gestión de Tecnología e Ingeniería, Universitat Rovira i Virgili, Tarragona, España (2023–2024)",
-        "Grado en Ingeniería Civil, Middle East Technical University, Ankara, Turquía (2018–2023)"
+        "Máster en Gestión de Tecnología e Ingeniería, Universitat Rovira i Virgili, Tarragona, España (2024–2025)",
+        "Grado en Ingeniería Civil, Middle East Technical University, Ankara, Turquía (2018–2024)"
       ],
       skillsTitle: "🛠️ Habilidades y Herramientas",
       skills: [
